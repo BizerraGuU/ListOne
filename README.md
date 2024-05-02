@@ -1,3 +1,3 @@
-# exeOne
+# exercisesJava
 
-I'm gonna post one by one of my exercises here, this is the one, the second gonna have a repository just to it, so this is how it's gonna work :)
+I'm gonna post one by one of my exercises here, this is how it's gonna work :)
