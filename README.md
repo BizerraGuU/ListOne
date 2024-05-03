@@ -5,6 +5,6 @@ The list I used was made by Nickerson Ferreira, professor at IFRN - BR.
 
 The list is in Portuguese - Pt-Br. But, i had wrote it in English in the codes, as comments.
 
-|To view the codes||
-|------------|---------|
-|src|->|trying|'codes here'|
+|To view the codes|||
+|------------|---------|--|
+|src -> |trying|'codes here'|
